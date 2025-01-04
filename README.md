@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sachi-B
+- 👋 Hi, I’m Sachi Brahmbhatt.
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning java,data structures,database.
 - 📫 Reach me through sachibrahmbhatt13.sb@gmail.com
